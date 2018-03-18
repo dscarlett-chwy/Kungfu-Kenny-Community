@@ -1,3 +1,4 @@
+# kendrick Lamar Fan Site
 This is a full stack app fan page for kendrick Lamar where fans can leave comments about there favorite songs and can vote for ther favorite comments.
 
 ![kendrick](https://user-images.githubusercontent.com/36242561/37569690-57d22a4e-2abc-11e8-81c9-b264a72e7958.png)
@@ -23,4 +24,4 @@ I learned how to manipulate the database after using myown server and how to ref
 1. run `npm run savage`
 2. Navigate to `localhost:3000`
  different-mode
-# kendrick
+
